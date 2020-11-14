@@ -11,12 +11,8 @@ p {
 
 img {
   width: 80%;
-  height: 140px;
-  display:block;
-  margin-top: 10px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 10px;}
+  height: 240px;
+    margin: 10px 0px 10px 0px;}
 
 .img_titulo1{
     width: 40%;
