@@ -97,7 +97,7 @@ hr.barra1 {
 .boton_temporada { 
     font-family: Century Gothic; 
     color: #000000; 
-    font-size: 12px; 
+    font-size: 7px; 
     font-weight: 750; 
     text-align: center; 
     background: #CCFF00 ; 
@@ -123,7 +123,7 @@ hr.barra1 {
 .boton_menu{
     font-family: Century Gothic; 
     color: #000000; 
-    font-size: 5px; 
+    font-size: 12px; 
     font-weight: 750; 
     text-align: center; 
     background: #D0D3D4; 
